@@ -41,11 +41,7 @@
 # LeetCode Topics
 
 
-## Linked List
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0002-add-two-numbers) |
-| [0237-delete-node-in-a-linked-list](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0237-delete-node-in-a-linked-list) |
+
 
 LeetCode Topics End-->
 
@@ -73,4 +69,12 @@ LeetCode Topics End-->
 | ------- |
 | [0066-plus-one](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0066-plus-one) |
 | [3875-construct-uniform-parity-array-i](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/3875-construct-uniform-parity-array-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
