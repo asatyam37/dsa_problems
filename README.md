@@ -36,7 +36,7 @@
 | 34 | [Previous Smaller Element](./GeeksForGeeks/Medium/Previous%20Smaller%20Element) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/previous-smaller-element/1) | Medium | 21 Oct 2026 | 10:40 pm |
 | 35 | [Linked List Cycle](./LeetCode/Easy/Linked%20List%20Cycle) | [LeetCode](https://leetcode.com/problems/linked-list-cycle/) | Easy | 23 Oct 2026 | 09:44 pm |
 | 36 | [Armstrong Numbers](./GeeksForGeeks/Easy/Armstrong%20Numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1) | Easy | 25 Oct 2026 | 10:34 am |
-
+| 37 | [Remove Duplicates from Sorted Array](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | 01 Nov 2026 | 05:25 pm |
 <!---LeetCode Topics Start
 # LeetCode Topics
 
@@ -81,4 +81,4 @@ LeetCode Topics End-->
 | ------- |
 | [0125-valid-palindrome](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
-| 37 | [Remove Duplicates from Sorted Array](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | 01 Nov 2026 | 05:25 pm |
+
