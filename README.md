@@ -67,11 +67,13 @@ LeetCode Topics End-->
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0066-plus-one) |
 | [3875-construct-uniform-parity-array-i](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0125-valid-palindrome) |
 ## String
 |  |
