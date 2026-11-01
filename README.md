@@ -80,3 +80,4 @@ LeetCode Topics End-->
 | ------- |
 | [0125-valid-palindrome](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
+| 37 | [Remove Duplicates from Sorted Array](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | 01 Nov 2026 | 05:25 pm |
