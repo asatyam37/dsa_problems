@@ -96,4 +96,4 @@ LeetCode Topics End-->
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
-
+| 38 | [Frequencies in a Limited Array](./GeeksForGeeks/Easy/Frequencies%20in%20a%20Limited%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1) | Easy | 05 Nov 2026 | 09:42 pm |
