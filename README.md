@@ -52,6 +52,7 @@ LeetCode Topics End-->
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0002-add-two-numbers) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
 |  |
