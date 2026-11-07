@@ -114,24 +114,25 @@
   },
   "syncedProblems": {
     "GeeksForGeeks_Frequencies_in_a_Limited_Array": true,
-    "LeetCode_Remove_Duplicates_from_Sorted_List": true
+    "LeetCode_Remove_Duplicates_from_Sorted_List": true,
+    "GeeksForGeeks_Sum_1_to_n_Divisors": true
   },
-  "totalSolved": 2,
+  "totalSolved": 3,
   "difficultyCounts": {
-    "easy": 2,
+    "easy": 3,
     "medium": 0,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
-    "Frequencies in a Limited Array",
-    "Remove Duplicates from Sorted List"
+    "Sum 1 to n Divisors"
   ],
   "currentStreak": 1,
-  "todayCount": 2,
-  "lastSyncDate": "2026-11-05",
+  "todayCount": 1,
+  "lastSyncDate": "2026-11-07",
   "maxStreak": 1,
   "activityHistory": {
-    "2026-11-05": 2
+    "2026-11-05": 2,
+    "2026-11-07": 1
   }
 }
