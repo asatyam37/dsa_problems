@@ -59,6 +59,7 @@ LeetCode Topics End-->
 | ------- |
 | [0002-add-two-numbers](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0509-fibonacci-number) |
 | [3870-count-commas-in-range](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -72,6 +73,7 @@ LeetCode Topics End-->
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0189-rotate-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -81,6 +83,7 @@ LeetCode Topics End-->
 | [0026-remove-duplicates-from-sorted-array](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
