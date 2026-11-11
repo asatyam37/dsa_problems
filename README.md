@@ -109,11 +109,11 @@ LeetCode Topics End-->
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## KnuthÃÂ¢ÃÂÃÂMorrisÃÂ¢ÃÂÃÂPratt Algorithm
+## KnuthÃÂÃÂ¢ÃÂÃÂÃÂÃÂMorrisÃÂÃÂ¢ÃÂÃÂÃÂÃÂPratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## BoyerÃÂ¢ÃÂÃÂMoore String-Search Algorithm
+## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -122,3 +122,4 @@ LeetCode Topics End-->
 | 39 | [Remove Duplicates from Sorted List](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20List) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | 05 Nov 2026 | 10:02 pm |
 | 40 | [Sum 1 to n Divisors](./GeeksForGeeks/Easy/Sum%201%20to%20n%20Divisors) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sum-of-all-divisors-from-1-to-n4738/1) | Easy | 07 Nov 2026 | 08:07 am |
 | 41 | [Palindrome String](./GeeksForGeeks/Basic/Palindrome%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/palindrome-string0817/1) | Basic | 07 Nov 2026 | 08:20 am |
+| 42 | [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) | [LeetCode](https://leetcode.com/problems/move-zeroes/) | Easy | 11 Nov 2026 | 10:04 am |
