@@ -118,26 +118,28 @@
     "GeeksForGeeks_Sum_1_to_n_Divisors": true,
     "GeeksForGeeks_Palindrome_String": true,
     "LeetCode_Move_Zeroes": true,
-    "GeeksForGeeks_Rotate_Array": true
+    "GeeksForGeeks_Rotate_Array": true,
+    "GeeksForGeeks_Binary_Search": true
   },
-  "totalSolved": 6,
+  "totalSolved": 7,
   "difficultyCounts": {
     "easy": 4,
     "medium": 1,
     "hard": 0,
-    "basic": 1
+    "basic": 2
   },
   "todayProblems": [
     "Move Zeroes",
-    "Rotate Array"
+    "Rotate Array",
+    "Binary Search"
   ],
   "currentStreak": 1,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-11-11",
   "maxStreak": 1,
   "activityHistory": {
     "2026-11-05": 2,
     "2026-11-07": 2,
-    "2026-11-11": 2
+    "2026-11-11": 3
   }
 }
