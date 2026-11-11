@@ -117,25 +117,27 @@
     "LeetCode_Remove_Duplicates_from_Sorted_List": true,
     "GeeksForGeeks_Sum_1_to_n_Divisors": true,
     "GeeksForGeeks_Palindrome_String": true,
-    "LeetCode_Move_Zeroes": true
+    "LeetCode_Move_Zeroes": true,
+    "GeeksForGeeks_Rotate_Array": true
   },
-  "totalSolved": 5,
+  "totalSolved": 6,
   "difficultyCounts": {
     "easy": 4,
-    "medium": 0,
+    "medium": 1,
     "hard": 0,
     "basic": 1
   },
   "todayProblems": [
-    "Move Zeroes"
+    "Move Zeroes",
+    "Rotate Array"
   ],
   "currentStreak": 1,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-11-11",
   "maxStreak": 1,
   "activityHistory": {
     "2026-11-05": 2,
     "2026-11-07": 2,
-    "2026-11-11": 1
+    "2026-11-11": 2
   }
 }
