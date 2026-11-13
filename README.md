@@ -119,11 +119,5 @@ LeetCode Topics End-->
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## 
-| ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore String-Search Algorithm
-|  |
-| ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
 
