@@ -82,6 +82,7 @@ LeetCode Topics End-->
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0189-rotate-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -119,5 +120,11 @@ LeetCode Topics End-->
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## 
+|  |
+| ------- |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
 
