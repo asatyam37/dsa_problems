@@ -119,27 +119,27 @@
     "GeeksForGeeks_Palindrome_String": true,
     "LeetCode_Move_Zeroes": true,
     "GeeksForGeeks_Rotate_Array": true,
-    "GeeksForGeeks_Binary_Search": true
+    "GeeksForGeeks_Binary_Search": true,
+    "LeetCode_Missing_Number": true
   },
-  "totalSolved": 7,
+  "totalSolved": 8,
   "difficultyCounts": {
-    "easy": 4,
+    "easy": 5,
     "medium": 1,
     "hard": 0,
     "basic": 2
   },
   "todayProblems": [
-    "Move Zeroes",
-    "Rotate Array",
-    "Binary Search"
+    "Missing Number"
   ],
   "currentStreak": 1,
-  "todayCount": 3,
-  "lastSyncDate": "2026-11-11",
+  "todayCount": 1,
+  "lastSyncDate": "2026-11-13",
   "maxStreak": 1,
   "activityHistory": {
     "2026-11-05": 2,
     "2026-11-07": 2,
-    "2026-11-11": 3
+    "2026-11-11": 3,
+    "2026-11-13": 1
   }
 }
