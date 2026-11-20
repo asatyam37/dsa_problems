@@ -136,23 +136,25 @@
     "solved": 23
   },
   "syncedProblems": {
-    "LeetCode_Max_Consecutive_Ones": true
+    "LeetCode_Max_Consecutive_Ones": true,
+    "GeeksForGeeks_Unique_Number_I": true
   },
-  "totalSolved": 1,
+  "totalSolved": 2,
   "difficultyCounts": {
-    "easy": 1,
+    "easy": 2,
     "medium": 0,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
-    "Max Consecutive Ones"
+    "Unique Number I"
   ],
   "currentStreak": 1,
   "todayCount": 1,
-  "lastSyncDate": "2026-11-17",
+  "lastSyncDate": "2026-11-20",
   "maxStreak": 1,
   "activityHistory": {
-    "2026-11-17": 1
+    "2026-11-17": 1,
+    "2026-11-20": 1
   }
 }

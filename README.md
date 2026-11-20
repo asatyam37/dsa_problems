@@ -128,3 +128,4 @@ LeetCode Topics End-->
 | [0136-single-number](https://github.com/2006satyamgupta-bit/leetcode_problems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
 | 46 | [Max Consecutive Ones](./LeetCode/Easy/Max%20Consecutive%20Ones) | [LeetCode](https://leetcode.com/problems/max-consecutive-ones/) | Easy | 17 Nov 2026 | 10:36 pm |
+| 47 | [Unique Number I](./GeeksForGeeks/Easy/Unique%20Number%20I) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-unique-number/1) | Easy | 20 Nov 2026 | 09:40 pm |
