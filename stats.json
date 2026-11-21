@@ -137,24 +137,26 @@
   },
   "syncedProblems": {
     "LeetCode_Max_Consecutive_Ones": true,
-    "GeeksForGeeks_Unique_Number_I": true
+    "GeeksForGeeks_Unique_Number_I": true,
+    "LeetCode_Binary_Tree_Level_Order_Traversal": true
   },
-  "totalSolved": 2,
+  "totalSolved": 3,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 0,
+    "medium": 1,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
-    "Unique Number I"
+    "Binary Tree Level Order Traversal"
   ],
-  "currentStreak": 1,
+  "currentStreak": 2,
   "todayCount": 1,
-  "lastSyncDate": "2026-11-20",
-  "maxStreak": 1,
+  "lastSyncDate": "2026-11-21",
+  "maxStreak": 2,
   "activityHistory": {
     "2026-11-17": 1,
-    "2026-11-20": 1
+    "2026-11-20": 1,
+    "2026-11-21": 1
   }
 }

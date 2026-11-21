@@ -129,3 +129,4 @@ LeetCode Topics End-->
 <!---LeetCode Topics End-->
 | 46 | [Max Consecutive Ones](./LeetCode/Easy/Max%20Consecutive%20Ones) | [LeetCode](https://leetcode.com/problems/max-consecutive-ones/) | Easy | 17 Nov 2026 | 10:36 pm |
 | 47 | [Unique Number I](./GeeksForGeeks/Easy/Unique%20Number%20I) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-unique-number/1) | Easy | 20 Nov 2026 | 09:40 pm |
+| 48 | [Binary Tree Level Order Traversal](./LeetCode/Medium/Binary%20Tree%20Level%20Order%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | 21 Nov 2026 | 12:52 pm |
