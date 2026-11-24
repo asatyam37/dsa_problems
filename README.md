@@ -131,3 +131,4 @@ LeetCode Topics End-->
 | 47 | [Unique Number I](./GeeksForGeeks/Easy/Unique%20Number%20I) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-unique-number/1) | Easy | 20 Nov 2026 | 09:40 pm |
 | 48 | [Binary Tree Level Order Traversal](./LeetCode/Medium/Binary%20Tree%20Level%20Order%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | 21 Nov 2026 | 12:52 pm |
 | 49 | [Implement Trie (Prefix Tree)](./LeetCode/Medium/Implement%20Trie%20(Prefix%20Tree)) | [LeetCode](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | 23 Nov 2026 | 12:12 pm |
+| 50 | [Height of Binary Tree](./GeeksForGeeks/Easy/Height%20of%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/height-of-binary-tree/1) | Easy | 24 Nov 2026 | 09:18 pm |
